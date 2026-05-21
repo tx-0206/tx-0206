@@ -1,13 +1,16 @@
 <div align="center">
 
-# Hi, I'm tx-0206 👋
+# Hi, I'm TX 👋
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 
 ### Software Engineer  
 Building, learning, improving, and creating useful software.
 
+![Profile Views](https://komarev.com/ghpvc/?username=tx-0206&style=for-the-badge)
+
 [![GitHub](https://img.shields.io/badge/GitHub-tx--0206-181717?style=for-the-badge&logo=github)](https://github.com/tx-0206)
+[![Gmail](https://img.shields.io/badge/Gmail-danianovind%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danianovind@gmail.com)
 
 </div>
 
@@ -54,22 +57,16 @@ Every project is a chance to learn, experiment, and become better.
 > Good software is not only about making things work.  
 > It is about making things understandable, reliable, and valuable.
 
-I believe in:
-
 ### Clarity
-
 Readable software is better software.
 
 ### Simplicity
-
 Simple solutions are often the strongest solutions.
 
 ### Consistency
-
 Progress comes from showing up and improving little by little.
 
 ### Growth
-
 Every bug, project, and challenge is part of the journey.
 
 ---
@@ -117,14 +114,6 @@ Right now, I am focused on becoming a stronger Software Engineer by:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tx-0206&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tx-0206&theme=tokyonight&hide_border=true" />
-
-<br />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tx-0206&theme=tokyo-night&hide_border=true" />
 
 </div>
@@ -150,6 +139,7 @@ I am always working toward:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-tx--0206-black?style=for-the-badge&logo=github)](https://github.com/tx-0206)
+[![Gmail](https://img.shields.io/badge/Gmail-danianovind%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danianovind@gmail.com)
 
 </div>
 
